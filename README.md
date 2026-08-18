@@ -1,2 +1,3 @@
 # laboratorio-git-01
 Laboratorio 1 ING. DE SOFTWAR 1
+Hola, mi nombre es Juan Sebastián Papa. Tengo 22 años y me encuentro cursando el quinto semestre de Ingeniería de Sistemas en la Universidad de los Llanos. Presento este trabajo como parte de una actividad práctica para la asignatura de Ingeniería de Software 1.
