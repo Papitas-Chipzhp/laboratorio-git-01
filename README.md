@@ -7,4 +7,4 @@ Objetivos del laboratorio:
 
  Este es mi tercer commit.
 
-Cambio Para la rama secundaria.
+Cambio para demostrar la rama secundaria.
